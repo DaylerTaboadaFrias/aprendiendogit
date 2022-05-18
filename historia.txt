@@ -6,3 +6,5 @@ sucre .
 Hoy hablaremos de su historia.
 
 En camara parece algo pero en realidad no es alto.
+
+Hoy es un programador en OsBolivia.
